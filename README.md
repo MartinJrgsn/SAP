@@ -15,7 +15,7 @@ The service only needs to concern themselves with their content and products,
 while allowing governments to handle authorization for different categories,
 such as age restriction and limitations for different types of content.
 
-## User Story:
+## User Story
 
 The user accesses a service and recognizes a need to register. They click the
 register button and meet an implementation of this new standardized protocol,
